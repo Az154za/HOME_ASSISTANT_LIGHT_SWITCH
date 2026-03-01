@@ -22,6 +22,14 @@
 <img width="1920" height="1080" alt="VIEW" src="https://github.com/user-attachments/assets/934f021b-5671-44fb-8cec-2fb3d2b8a630" />
 
 # BOM
+| Component Name | Provider | Quantity | Price | Link |
+|---|---|---|---|---|
+| ELEGOO ESP32 Development Board + Terminal Adapter | Amazon.fr (ELEGOO) | 2 | $19.50 | [amazon.fr](https://www.amazon.fr/ELEGOO-D%C3%A9veloppement-Adaptateur-Terminal-Ensembles/dp/B0D8T5P8JM) |
+| PCB | JLCPCB | 5 | $6.60 | - |
+| SG90 180° Servo Motor | AliExpress | 4 | $6.17 | [aliexpress.com](https://fr.aliexpress.com/item/1005010199020431.html) |
+| DHT11 Temperature & Humidity Sensor | AliExpress | 1 | $0.84 | [aliexpress.com](https://fr.aliexpress.com/item/1005008659347359.html) |
+| PIR Motion Sensor | AliExpress | 1 | $1.07 | [aliexpress.com](https://fr.aliexpress.com/item/1005010179334039.html) |
+| **TOTAL** | | | **$34.18** | |
 # Dimensions of inner box 
 <img width="674" height="649" alt="image" src="https://github.com/user-attachments/assets/c8627f5b-7743-4937-8290-2314f7a9f658" />
 

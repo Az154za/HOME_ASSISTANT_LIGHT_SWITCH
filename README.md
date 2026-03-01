@@ -22,6 +22,8 @@
 <img width="1920" height="1080" alt="VIEW" src="https://github.com/user-attachments/assets/934f021b-5671-44fb-8cec-2fb3d2b8a630" />
 
 # BOM
+# Dimensions of inner box 
+<img width="674" height="649" alt="image" src="https://github.com/user-attachments/assets/c8627f5b-7743-4937-8290-2314f7a9f658" />
 
 
 
